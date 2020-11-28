@@ -1,0 +1,9 @@
+.kotak {
+    background: #02d113;
+    padding: 10px;
+    width: 200px;
+    height: 200px;
+}
+.tulisan {
+    color: hsl(0, 100%, 51%);
+}

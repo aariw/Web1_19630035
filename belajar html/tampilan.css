@@ -1,0 +1,10 @@
+h1 {
+    color: aquamarine; /*ini untuk memberi warna*/
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 15px;
+}
+
+h2 {
+    color: orange;
+}
